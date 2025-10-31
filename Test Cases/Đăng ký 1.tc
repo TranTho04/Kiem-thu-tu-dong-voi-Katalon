@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Đăng ký 1</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>c98ae5f0-f439-4982-a9ac-0c3b190a16e9</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b6e7b603-8145-4bc7-aed5-8430a2b95f6d</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>5b002f21-6984-4463-bb8b-e0ab4d494ae0</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>dfc23b8d-1c92-4f19-880a-7534cb49acf7</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>b6e7b603-8145-4bc7-aed5-8430a2b95f6d</id>
+      <masked>false</masked>
+      <name>id</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>5b002f21-6984-4463-bb8b-e0ab4d494ae0</id>
+      <masked>false</masked>
+      <name>so_dien_thoai</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>dfc23b8d-1c92-4f19-880a-7534cb49acf7</id>
+      <masked>false</masked>
+      <name>thong_bao</name>
+   </variable>
+</TestCaseEntity>

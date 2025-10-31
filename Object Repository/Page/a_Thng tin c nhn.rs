@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Thng tin c nhn</name>
+   <tag></tag>
+   <elementGuidId>c39bae77-4dab-4e23-b1bc-e0a8df3a5076</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#link-my-account</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='link-my-account']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>a03631d5-6435-424e-8184-c4f8d0d2b342</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://web-ecommerce.online/my_account/64</value>
+      <webElementGuid>cdd3fdd9-b436-4ceb-9873-3871700ff558</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>link-my-account</value>
+      <webElementGuid>74e41f87-cf4d-4183-b8a7-b96111760c0c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Thông tin cá nhân</value>
+      <webElementGuid>48116231-9240-4a67-8f93-1704d8a885a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;link-my-account&quot;)</value>
+      <webElementGuid>bc053f3d-ad17-42d1-be83-e6e55b45e5d1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='link-my-account']</value>
+      <webElementGuid>8c56fcf4-90b5-45f9-88f5-5f09c8c0ad3a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='em-account-login-form']/div/ul/li/a</value>
+      <webElementGuid>3a459b22-fde7-4c34-9e36-9a0253e18389</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Thông tin cá nhân')]</value>
+      <webElementGuid>3a5b8d56-b8a8-4f0d-81dd-c6fac595e38b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chào Test'])[1]/following::a[1]</value>
+      <webElementGuid>2c104c8b-5b42-4fbb-95fb-cba584af5de0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tìm kiếm'])[2]/following::a[2]</value>
+      <webElementGuid>1d723fa0-c424-4fb0-82d6-c25e6ffde034</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Lịch sử đặt hàng'])[1]/preceding::a[1]</value>
+      <webElementGuid>0b85369f-31cd-4d01-b424-36f51151bba5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sản phẩm yêu thích'])[1]/preceding::a[2]</value>
+      <webElementGuid>20350c37-94ad-4ce9-ab0e-578cdd3a5026</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Thông tin cá nhân']/parent::*</value>
+      <webElementGuid>67419a3e-74fe-4d75-82ac-931b281e4c9d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://web-ecommerce.online/my_account/64')])[2]</value>
+      <webElementGuid>7b1eb5d2-bb59-49f6-87eb-00629c6a9dec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/ul/li/a</value>
+      <webElementGuid>2631732c-952e-481c-afe3-5c21c5e066d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://web-ecommerce.online/my_account/64' and @id = 'link-my-account' and (text() = ' Thông tin cá nhân' or . = ' Thông tin cá nhân')]</value>
+      <webElementGuid>cdf0e4db-13a3-4410-b5a0-cac6495dc0cf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

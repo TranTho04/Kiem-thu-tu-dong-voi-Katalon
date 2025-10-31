@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Search</name>
+   <tag></tag>
+   <elementGuidId>3258571f-48a7-48c9-b6ab-741edfb0b65d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='link-search']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#link-search > span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot; Search&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>de90c32d-585d-4e54-91c3-9432223ea2fd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Search</value>
+      <webElementGuid>30f17e18-eca9-402f-b007-777bcf25b0bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;no-js&quot;]/body[@class=&quot;cms-index-index&quot;]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;page two-columns-left&quot;]/div[@class=&quot;em-wrapper-header&quot;]/div[@class=&quot;hidden-xs em-header-style08&quot;]/div[@class=&quot;em-header-top&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-24&quot;]/div[2]/div[@class=&quot;em-search f-right&quot;]/div[@class=&quot;em-top-search&quot;]/div[@class=&quot;em-wrapper-js-search em-search-style01&quot;]/div[@class=&quot;em-wrapper-search em-no-category-search&quot;]/a[@id=&quot;link-search&quot;]/span[1]</value>
+      <webElementGuid>4fc6cb68-88f1-476c-98f0-5137e1416047</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='link-search']/span</value>
+      <webElementGuid>ac2905fa-2c75-4606-95ce-9b7ea8264d22</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hotline:'])[1]/following::span[2]</value>
+      <webElementGuid>07444625-278a-48b3-adbd-a97c432473a5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='CỎ MỀM (HOMELAB)'])[2]/following::span[4]</value>
+      <webElementGuid>15522aac-94dd-4454-b40d-0bcbbe1e63c5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tìm kiếm'])[1]/preceding::span[1]</value>
+      <webElementGuid>edf5beb7-8d80-4b8d-b996-937f832af8e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tìm kiếm'])[2]/preceding::span[1]</value>
+      <webElementGuid>4a85c2f7-4809-4d35-8e30-17035edb5aea</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Search']/parent::*</value>
+      <webElementGuid>049eef5c-284a-48ee-83cc-8dcd6638e0fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div[2]/div/div/div/div/a/span</value>
+      <webElementGuid>153e54df-9fb3-4f18-85b1-50b2f81d3057</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Search' or . = 'Search')]</value>
+      <webElementGuid>6f12df8c-9433-4a02-9b36-1985abdfd8a5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

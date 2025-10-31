@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_t mua</name>
+   <tag></tag>
+   <elementGuidId>c7a8a6cf-3d16-4efa-a6f5-cef8e115070c</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='btn_checkout']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#btn_checkout</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>b9e2a5e4-816c-4e42-a35b-34961e36700d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>submit</value>
+      <webElementGuid>9ebd23de-6ed9-4a55-bb09-ea0e61ded750</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>button btn-checkout</value>
+      <webElementGuid>e0a83f5e-ee4e-46c7-9453-3d0ebd153f28</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>btn_checkout</value>
+      <webElementGuid>fc44e51e-f218-4ac3-89a5-1a43ba1b45ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-loading-text</name>
+      <type>Main</type>
+      <value>&lt;i class='fa fa-spinner fa-spin '>&lt;/i> Đang xử lý</value>
+      <webElementGuid>1c7c59fd-077a-4ed6-87a0-223fdc25880b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                                                    Đặt mua
+                                                </value>
+      <webElementGuid>19db47ec-8b55-4f8b-8575-bb8415c0afaf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;btn_checkout&quot;)</value>
+      <webElementGuid>9123c866-86ed-40c1-9511-079bc26cafa9</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//button[@id='btn_checkout_invalid']</value>
+      <webElementGuid>c7080884-dee8-41fb-b1a3-9013f4dd3489</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='billing-buttons-container']/button</value>
+      <webElementGuid>af25cc19-4600-4208-aa9c-e20f4de8faa9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Ghi chú cho đơn hàng (Không bắt buộc)'])[1]/following::button[1]</value>
+      <webElementGuid>04bec2da-c043-4238-9260-bf2080e601d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='demo@gmail.com'])[1]/following::button[1]</value>
+      <webElementGuid>448cd3c6-5a80-4816-9898-947da8b15bff</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Đơn hàng của bạn'])[1]/preceding::button[1]</value>
+      <webElementGuid>253a05b5-caf5-4865-a9c7-e98b709692b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sản phẩm'])[1]/preceding::button[1]</value>
+      <webElementGuid>bccee24e-f02d-4371-a6de-55d6587dd669</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Đặt mua']/parent::*</value>
+      <webElementGuid>fdc750b2-48c9-4a16-8179-5baf56780328</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//fieldset/div/button</value>
+      <webElementGuid>2c57f6ed-d956-44be-816f-daf73c03ab57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'submit' and @id = 'btn_checkout' and (text() = '
+                                                    Đặt mua
+                                                ' or . = '
+                                                    Đặt mua
+                                                ')]</value>
+      <webElementGuid>9d7fcf22-798b-4230-8f99-b20f2e9d65af</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

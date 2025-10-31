@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Thêm vào giỏ hàng</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>41998fdd-d466-42bd-9e71-0596edde8805</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>a3f04997-b68c-481b-ade1-1a91f3c46ac6</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ee53be6c-104b-4aa4-b31b-55b6f9c607bd</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>fc7f0c82-8931-4dea-9623-f078808ceeee</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>a3f04997-b68c-481b-ade1-1a91f3c46ac6</id>
+      <masked>false</masked>
+      <name>id</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>ee53be6c-104b-4aa4-b31b-55b6f9c607bd</id>
+      <masked>false</masked>
+      <name>so_luong</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>fc7f0c82-8931-4dea-9623-f078808ceeee</id>
+      <masked>false</masked>
+      <name>thong_bao</name>
+   </variable>
+</TestCaseEntity>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Tìm kiếm sp</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9384b4fa-6e33-41fd-ba4c-1c32b9f84400</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>e59ab43a-6a13-4e80-a45e-15726294b26d</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>92519fa2-47e2-4ec6-9296-066e6190990a</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>128f6e8e-8155-437a-bc62-e0922f57ef8f</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>e59ab43a-6a13-4e80-a45e-15726294b26d</id>
+      <masked>false</masked>
+      <name>id</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>92519fa2-47e2-4ec6-9296-066e6190990a</id>
+      <masked>false</masked>
+      <name>tu_khoa</name>
+   </variable>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>128f6e8e-8155-437a-bc62-e0922f57ef8f</id>
+      <masked>false</masked>
+      <name>ket_qua</name>
+   </variable>
+</TestCaseEntity>

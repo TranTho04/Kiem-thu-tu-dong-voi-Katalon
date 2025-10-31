@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Xem sn phm</name>
+   <tag></tag>
+   <elementGuidId>8fbb5d27-aadb-4acd-b21e-a6191cf28028</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>a.quickshop-link</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='em_fashion_new_arrivals_tab01']/div/div/div/div/div/div/div/div/div/a</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>14b752d5-87d3-4f5f-8ebe-c867e2b9ad59</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://web-ecommerce.online/san-pham/vien-vitamin-va-khoang-chat-provibiol-vitamin-hop-30-vien-1606661409</value>
+      <webElementGuid>05a40216-4ff4-4e27-81ff-9fdfcac1718d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>quickshop-link</value>
+      <webElementGuid>9acbf087-3301-463a-aded-adb39c709ea0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>title</name>
+      <type>Main</type>
+      <value>Xem sản phẩm</value>
+      <webElementGuid>f5f8ab33-794f-4cc1-a523-054b17a93d5f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Xem sản phẩm</value>
+      <webElementGuid>358fc9d1-6749-43d2-b084-61ce564506a1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;em_fashion_new_arrivals_tab01&quot;)/div[@class=&quot;widget em-filterproducts-grid&quot;]/div[@class=&quot;widget-products em-widget-products&quot;]/div[@class=&quot;emcatalog-desktop-6&quot;]/div[@class=&quot;products-grid&quot;]/div[@class=&quot;item last&quot;]/div[@class=&quot;product-item&quot;]/div[@class=&quot;product-shop-top&quot;]/div[@class=&quot;em-element-display-hover bottom&quot;]/div[@class=&quot;quickshop-link-container&quot;]/a[@class=&quot;quickshop-link&quot;]</value>
+      <webElementGuid>bc02a67d-1107-4fb5-9414-124701163dc0</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='em_fashion_new_arrivals_tab01']/div/div/div/div/div/div/div/div/div/a</value>
+      <webElementGuid>f570e504-50c5-46b7-909b-050a9e648c70</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Xem sản phẩm')]</value>
+      <webElementGuid>f2f419b9-b654-483c-bea9-dc5d27bb4b89</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Viên vitamin và khoáng chất Provibiol Vitamin (Hộp 30 viên)'])[1]/preceding::a[1]</value>
+      <webElementGuid>a8126d86-5ce2-4a94-9c0e-b39da41f81b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Xem sản phẩm'])[2]/preceding::a[3]</value>
+      <webElementGuid>54873a46-4419-4420-8fcd-6068ded99230</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Xem sản phẩm']/parent::*</value>
+      <webElementGuid>dd0b18bd-4f6f-4782-808e-6777c7d06c75</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>(//a[contains(@href, 'https://web-ecommerce.online/san-pham/vien-vitamin-va-khoang-chat-provibiol-vitamin-hop-30-vien-1606661409')])[3]</value>
+      <webElementGuid>ae7cd93b-5a86-4cef-94c8-7019b27763e8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div/div/div/div/div/div/div/div/div/div/div/div/a</value>
+      <webElementGuid>192df3f5-7cfb-46f5-b3b5-e214ce83e37e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://web-ecommerce.online/san-pham/vien-vitamin-va-khoang-chat-provibiol-vitamin-hop-30-vien-1606661409' and @title = 'Xem sản phẩm' and (text() = 'Xem sản phẩm' or . = 'Xem sản phẩm')]</value>
+      <webElementGuid>b771c5f7-c080-4e23-9509-6654bd32e1d7</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

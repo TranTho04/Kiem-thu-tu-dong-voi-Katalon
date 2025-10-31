@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>a_Lch s t hng</name>
+   <tag></tag>
+   <elementGuidId>af924e8b-2a18-4baa-905a-029bb0403b54</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#link-transaction-history</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='link-transaction-history']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>a</value>
+      <webElementGuid>fcfeb3f9-fca5-42bf-b1f7-3ee70ca56273</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>href</name>
+      <type>Main</type>
+      <value>https://web-ecommerce.online/transaction/history/64</value>
+      <webElementGuid>90132598-b89d-42e8-bdaf-948cfea39f03</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>link-transaction-history</value>
+      <webElementGuid>5951a6c4-2caa-4589-b732-12432f15bf89</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> Lịch sử đặt hàng</value>
+      <webElementGuid>db51eb20-01b6-4fa1-a9cc-cd6c7504d750</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;link-transaction-history&quot;)</value>
+      <webElementGuid>304e814d-58f5-4e5d-9632-3cc1705bc6f8</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//a[@id='link-transaction-history']</value>
+      <webElementGuid>d0a1118f-5308-4141-adc5-7d5d4f16d56d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='em-account-login-form']/div/ul/li[2]/a</value>
+      <webElementGuid>e219efd8-8dcb-43b0-96ea-17d17d51f61c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:link</name>
+      <type>Main</type>
+      <value>//a[contains(text(),'Lịch sử đặt hàng')]</value>
+      <webElementGuid>130d3753-f67c-42bf-a5b6-8216006e34f6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Thông tin cá nhân'])[1]/following::a[1]</value>
+      <webElementGuid>28439ab3-df7e-4c1d-9da0-0f9e7b6a3847</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chào Test'])[1]/following::a[2]</value>
+      <webElementGuid>ca140458-7303-4f58-bed4-6e5f1b21b901</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Sản phẩm yêu thích'])[1]/preceding::a[1]</value>
+      <webElementGuid>5c7d5c4e-332d-4138-b76a-b7175d7fcd9a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Đổi mật khẩu'])[1]/preceding::a[2]</value>
+      <webElementGuid>272ec2c3-2f71-44be-93b0-076a79496e9c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Lịch sử đặt hàng']/parent::*</value>
+      <webElementGuid>1b33dfe1-4163-4c9b-b13f-262baf3d54a7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:href</name>
+      <type>Main</type>
+      <value>//a[contains(@href, 'https://web-ecommerce.online/transaction/history/64')]</value>
+      <webElementGuid>bfb64c87-f094-42d5-9521-ec3a6198a932</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/ul/li[2]/a</value>
+      <webElementGuid>4a70988c-b9b0-4536-9f16-347c38e09190</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//a[@href = 'https://web-ecommerce.online/transaction/history/64' and @id = 'link-transaction-history' and (text() = ' Lịch sử đặt hàng' or . = ' Lịch sử đặt hàng')]</value>
+      <webElementGuid>ba42aa23-0536-4bc6-8553-048c11d91d9f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

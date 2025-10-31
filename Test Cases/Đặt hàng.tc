@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>Đặt hàng</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>32dcfa44-ff4a-4a5c-91a3-2660557c4da9</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>6b41121e-74e4-484e-a2d4-3711dd73563e</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>ddf94b2d-0604-4f89-b396-2ad346b17c04</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>b3981d96-a926-4d18-8099-bdd67c9b784b</variableId>
+   </variableLinks>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>bb253a9a-199b-49f5-87d9-09321bb3b431</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'TEST_01'</defaultValue>
+      <description></description>
+      <id>6b41121e-74e4-484e-a2d4-3711dd73563e</id>
+      <masked>false</masked>
+      <name>id</name>
+   </variable>
+   <variable>
+      <defaultValue>'Test'</defaultValue>
+      <description></description>
+      <id>ddf94b2d-0604-4f89-b396-2ad346b17c04</id>
+      <masked>false</masked>
+      <name>dia_chi</name>
+   </variable>
+   <variable>
+      <defaultValue>'Test'</defaultValue>
+      <description></description>
+      <id>b3981d96-a926-4d18-8099-bdd67c9b784b</id>
+      <masked>false</masked>
+      <name>ghi_chu</name>
+   </variable>
+   <variable>
+      <defaultValue>'Đơn hàng của bạn đã được tiếp nhận'</defaultValue>
+      <description></description>
+      <id>bb253a9a-199b-49f5-87d9-09321bb3b431</id>
+      <masked>false</masked>
+      <name>thong_bao</name>
+   </variable>
+</TestCaseEntity>

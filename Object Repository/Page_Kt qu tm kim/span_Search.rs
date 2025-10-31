@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Search</name>
+   <tag></tag>
+   <elementGuidId>1413f2ac-53d4-4551-9dd5-b1556e199859</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#link-search > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='link-search']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>36c2a71f-b9f2-40f9-961f-5971d62347a7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Search</value>
+      <webElementGuid>020039ef-74f6-444e-a499-ce7d494f732e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html[@class=&quot;no-js&quot;]/body[@class=&quot;cms-index-index&quot;]/div[@class=&quot;wrapper&quot;]/div[@class=&quot;page two-columns-left&quot;]/div[@class=&quot;em-wrapper-header&quot;]/div[@class=&quot;hidden-xs em-header-style08&quot;]/div[@class=&quot;em-header-top&quot;]/div[@class=&quot;container&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-sm-24&quot;]/div[2]/div[@class=&quot;em-search f-right&quot;]/div[@class=&quot;em-top-search&quot;]/div[@class=&quot;em-wrapper-js-search em-search-style01&quot;]/div[@class=&quot;em-wrapper-search em-no-category-search&quot;]/a[@id=&quot;link-search&quot;]/span[1]</value>
+      <webElementGuid>9ea3e1aa-4e3f-4f50-86ce-47aa61f104ba</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='link-search']/span</value>
+      <webElementGuid>ba3e1803-c1dd-43dc-b62a-d509fc042556</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Hotline:'])[1]/following::span[2]</value>
+      <webElementGuid>d9954f61-4144-4d82-9d73-1a64cfc92f9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Chức năng đặc biệt'])[1]/following::span[4]</value>
+      <webElementGuid>0e72865f-78e7-4296-9244-a557102f5d67</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tìm kiếm'])[1]/preceding::span[1]</value>
+      <webElementGuid>c9476f0d-f489-447c-b4d3-a16c14db0b43</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Tìm kiếm'])[2]/preceding::span[1]</value>
+      <webElementGuid>ac62c937-9f35-4fe5-88a1-7712b8a2ec7a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Search']/parent::*</value>
+      <webElementGuid>0078a16f-ec38-453f-9e19-2eac5f237bd2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/div/div/div[2]/div/div/div/div/a/span</value>
+      <webElementGuid>226b68c1-a9e4-45c8-8e43-2523f95a03ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Search' or . = 'Search')]</value>
+      <webElementGuid>6a535bf9-2588-4fd7-b517-a46847d26838</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
